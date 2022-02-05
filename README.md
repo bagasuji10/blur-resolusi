@@ -1,0 +1,2 @@
+# blur-resolusi
+Semoga berkah
