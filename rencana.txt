@@ -3,7 +3,10 @@ RENCANA  kedepannya :
 - Javascript
   *ES6
   *Framework Javascript
+   > Vue
 - Fundamental Struktur Data Dasar
 - PHP Frameworks
+  * Laravel
 - Interviews
 - Vlogs
+- Pythoon
