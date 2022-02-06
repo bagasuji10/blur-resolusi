@@ -1,6 +1,8 @@
 RENCANA  kedepannya :
 
 - Javascript
+  *ES6
+  *Framework Javascript
 - PHP Frameworks
 - Interviews
 - Vlogs
